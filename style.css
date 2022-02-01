@@ -53,8 +53,7 @@ header.Hero.DiscussionHero.DiscussionHero--colored {
 }
 
 .Hero .container {
-    padding: 0;
-    padding-top: 10px;
+    padding-top: 12px;
 }
 
 li.item-scrubber {
@@ -184,7 +183,7 @@ input.FormControl:focus {
 }
 
 .ChatHeader {
-    background: #f47e19;
+    background-color: #f47e19 !important;
 }
 
 
@@ -212,4 +211,18 @@ header.Hero.WelcomeHero {
 
 li.item-link1 a {
     color: white;
+}
+
+.Scrubber-bar {
+    background: #f47e19;
+}
+
+button.Button.Button--icon.Navigation-pin.hasIcon {
+    display: none;
+}
+
+.Pages-container.container {
+    background: white;
+    color: black;
+    padding: 40px;
 }
