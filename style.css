@@ -62,7 +62,6 @@ li.item-scrubber {
 }
 
 
-a.Dropdown-toggle {}
 
 time {
     color: black;
@@ -101,4 +100,29 @@ header.Post-header {
 
 .Post-body p {
     color: black;
+}
+
+h1.Header-title {
+    display: none;
+}
+
+img#logo {
+    position: fixed;
+    width: 100px;
+    z-index: 10000;
+    top: -22px;
+    left: 49px;
+}
+
+body {
+    background: none;
+}
+
+div#app {
+    font-family: monospace;
+}
+
+
+.DiscussionPage-list {
+    display: none;
 }
