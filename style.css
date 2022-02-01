@@ -197,6 +197,19 @@ input.FormControl:focus {
 }
 
 button.Hero-close.Button.Button--icon.Button--link.hasIcon {
-    color: white;
+    color: #a9ff90;
     margin-top: 1px;
+}
+
+.item-link1 {
+    margin-left: 101px;
+}
+
+header.Hero.WelcomeHero {
+    background: #121a12bd;
+    color: #a8ff8c;
+}
+
+li.item-link1 a {
+    color: white;
 }
