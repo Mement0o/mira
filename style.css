@@ -134,3 +134,29 @@ span.Button-label {
 .item-tag1 {
     display: none;
 }
+
+a.fc-daygrid-event.fc-daygrid-dot-event.fc-event {
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+}
+
+.fc-event-title {
+}
+
+.IndexPage-results.sideNavOffset {
+    /* background: black; */
+}
+
+a {
+    color: #b2c9c4;
+}
+
+div#calendar {
+    background: black;
+    box-shadow: 0 0 8px 38px black;
+}
+
+.fc .fc-daygrid-day.fc-day-today {
+    background-color: #642e2e;
+}
+
