@@ -181,3 +181,16 @@ input.FormControl {
 input.FormControl:focus {
     border-color: #82e76f;
 }
+
+.ChatHeader {
+    background: #f47e19;
+}
+
+
+.ChatViewport .wrapper .message-wrapper .event, .ChatViewport .wrapper .message-wrapper--loading .event {
+    color: black;
+}
+
+.PostMention, .UserMention {
+    background: black;
+}
