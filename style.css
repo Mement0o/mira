@@ -126,3 +126,11 @@ div#app {
 .DiscussionPage-list {
     display: none;
 }
+
+span.Button-label {
+    font-size: 12px;
+}
+
+.item-tag1 {
+    display: none;
+}
