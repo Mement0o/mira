@@ -54,6 +54,7 @@ header.Hero.DiscussionHero.DiscussionHero--colored {
 
 .Hero .container {
     padding: 0;
+    padding-top: 10px;
 }
 
 li.item-scrubber {
@@ -193,4 +194,9 @@ input.FormControl:focus {
 
 .PostMention, .UserMention {
     background: black;
+}
+
+button.Hero-close.Button.Button--icon.Button--link.hasIcon {
+    color: white;
+    margin-top: 1px;
 }
