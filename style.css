@@ -157,6 +157,27 @@ div#calendar {
 }
 
 .fc .fc-daygrid-day.fc-day-today {
-    background-color: #642e2e;
+    background-color: #8d2450;
 }
 
+
+
+.fc-daygrid-event-dot {
+    border: 4px solid #82e76f;
+}
+
+button.fc-button-primary {
+    background: #9b9f9b !important;
+}
+
+header#header {
+    background: black;
+}
+
+input.FormControl {
+    background: #282828;
+}
+
+input.FormControl:focus {
+    border-color: #82e76f;
+}
