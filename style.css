@@ -226,3 +226,36 @@ button.Button.Button--icon.Navigation-pin.hasIcon {
     color: black;
     padding: 40px;
 }
+
+
+time {
+    color: white;
+}
+
+.Modal-body span.username {
+    color: white;
+}
+
+#eventdescription {
+    color: white;
+}
+
+.Modal-body  button.Button.Button--icon.Button--link.hasIcon {
+    background-color: orange !important;
+}
+
+.Modal-header {
+    background: black;
+}
+
+.Modal-body {
+    background-color: #557d75;
+}
+
+.Modal-body p {
+    color: white;
+}
+
+a[href*="/events/"] {
+    display: none;
+}
