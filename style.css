@@ -1,0 +1,104 @@
+html {
+    background: url(https://i.pinimg.com/originals/d7/2f/4e/d72f4e721c10999dd8840551e3c7dd8d.jpg);
+    background-repeat: repeat;
+    background-size: 150px;
+}
+
+nav.IndexPage-nav.sideNav ul {
+    background-color: #b2c9c4;
+    padding: 13px;
+}
+
+button.Button {
+    background-color: #ba96e9;
+    color: black;
+}
+
+.item-nav a {
+    color: black !important;
+}
+
+.IndexPage-results.sideNavOffset {
+    background: white;
+    padding: 26px;
+}
+
+img.Header-logo {
+    height: 105px;
+    max-height: 1000px;
+}
+
+button.Dropdown-toggle.Button.Button--link {
+    color: white;
+}
+
+body.no-touch {
+    background: none;
+    font-family: monospace;
+}
+
+li.item-tags {
+    display: none;
+}
+
+header.Hero.DiscussionHero.DiscussionHero--colored {
+    background: #b2c9c4;
+}
+
+
+
+.DiscussionPage-stream {
+    background: white;
+    padding: 21px;
+}
+
+.Hero .container {
+    padding: 0;
+}
+
+li.item-scrubber {
+    background: white;
+    padding: 21px;
+}
+
+
+a.Dropdown-toggle {}
+
+time {
+    color: black;
+}
+
+span.username {
+    color: black;
+}
+
+li.item-group1 {}
+
+ul.PostUser-badges.badges {
+    display: none;
+}
+
+span.Scrubber-description {
+    color: black;
+}
+
+a.Scrubber-first {
+    color: black;
+}
+
+a.Scrubber-last {
+    color: black;
+}
+
+
+.Scrubber-info {
+    color: black;
+}
+
+header.Post-header {
+    color: black !important;
+}
+
+.Post-body p {
+    color: black;
+}
